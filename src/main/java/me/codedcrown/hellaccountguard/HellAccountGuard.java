@@ -20,7 +20,6 @@ public final class HellAccountGuard extends JavaPlugin {
     }
 
     public void onEnable() {
-        if(!new AdvancedLicense("KX1O-8Y8P-XE2E-Q6YV", "https://hell-license.cooking/verify.php", this).register()) return;
         this.saveDefaultConfig();
         this.updateConfig();
         final File file = this.getFile();
