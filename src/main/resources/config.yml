@@ -1,0 +1,6 @@
+#Не пипайте това.
+cfg-version: 5
+#Името на файла по подразбиране е messages_en.yml
+language: en
+#Забрана на хората с OP права да използват командите /ag remove и /ag reload от съображения за сигурност
+disallow: false

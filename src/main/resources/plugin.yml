@@ -1,0 +1,10 @@
+name: HellAccountGuard
+version: '${project.version}'
+main: me.codedcrown.hellaccountguard.HellAccountGuard
+api-version: 1.18
+authors: [ ValentinZhelev ]
+description: HellAccountGuard prevents protected player's account from logging in if IP doesn't match to given.
+website: https://hellhost.eu/
+commands:
+  accountguard:
+    aliases: hag
