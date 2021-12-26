@@ -20,6 +20,7 @@ noperm: '&4Нямате разрешение!'
 ```
 
 ### Commands
+```
 /hag - Display whole commands. - no permission required
 /hag add <account> <ip> - Activates the protection and prevents from logging in if IP doesn't match to given. - hag.add
 /hag remove <account> <ip> -	Removes the protection for written ip. - hag.remove
@@ -27,3 +28,4 @@ noperm: '&4Нямате разрешение!'
 /hag info <account> - Checks if player has protection. - hag.info
 /hag save - Saves the ip file to disk. - hag.save
 /hag reload - Reloads the config,ip,messages files - hag.reload
+```
